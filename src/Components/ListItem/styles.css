@@ -1,0 +1,41 @@
+.projectBlockTF
+{
+  display: flex;
+  align-items: initial;
+  justify-content: space-between;
+  border: 5px solid #9b7e52;
+  border-radius: 25px;
+  padding: 25px;
+  margin: 10px 0;
+}
+.projectBlockIF
+{
+  display: flex;
+  align-items:initial;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  border: 5px solid #9b7e52;
+  border-radius: 25px;
+  padding: 25px;
+  margin: 10px 0;
+}
+
+.projectDescription
+{
+  display: flex;
+  flex-direction: column;
+  margin:15px;
+}
+.projectDescription p
+{
+  font-size: 20px;
+  text-align: justify;
+  line-height: 150%;
+}
+
+.Image
+{
+  width: 100%;
+  height: auto;
+  border-radius: 25px;
+}
