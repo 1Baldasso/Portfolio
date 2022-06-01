@@ -14,7 +14,7 @@ export default function ListItem(props)
         </p>
       </div>
       <div className='projectImage'>
-        <a href={props.url}><img src={props.image} alt="" className='Image'/></a>
+        <a href={props.url} target='_blank' rel='noreferrer noopener'><img src={props.image} alt="" className='Image'/></a>
       </div>
       {props.video}
     </div>
