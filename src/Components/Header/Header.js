@@ -1,5 +1,5 @@
 import React from 'react';
-import ProfilePic from '../../Assets/ProfilePic.jpg'
+import ProfilePic from '../../Assets/Images/ProfilePic.jpg'
 import './styles.css';
 
 function Header(){

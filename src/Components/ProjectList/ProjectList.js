@@ -1,10 +1,11 @@
 import ListItem from '../ListItem/ListItem';
 import { projects } from "./projects";
+import './styles.css';  
 
 export default function ProjectList(){
   return(
     <div>
-      <h2>My Projects</h2>
+      <h2 className='title'>My Projects</h2>
       <ul className='workList'>
         <li>
           <ListItem title={projects.game1.name} description={projects.game1.description} image={projects.game1.Image} url={projects.game1.url} />

@@ -1,7 +1,12 @@
+.title
+{
+  font-size: 20%;
+  border-bottom: 0.8px solid #9b7e52;
+  width: 30%;
+}
 .workList
 {
   margin-top: 0px;
-  list-style: none;
   margin: 10px 25px;
   list-style: none;
 }

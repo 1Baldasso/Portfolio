@@ -1,12 +1,12 @@
-import MiaImage from '../../Assets/miasbackhome.png';
-import RunnerImage from '../../Assets/Runner25D.jpg';
-import GameMaganagerImage from '../../Assets/GameManager.png';
-import QuestionMarkImage from '../../Assets/QuestionMark.png';
+import MiaImage from '../../Assets/Images/miasbackhome.png';
+import RunnerImage from '../../Assets/Images/Runner25D.jpg';
+import GameMaganagerImage from '../../Assets/Images/GameManager.png';
+import QuestionMarkImage from '../../Assets/Images/QuestionMark.png';
 
 export const projects = {
   "game1": {
     "name": "Mia is Back Home",
-    "description": "The first game developed by me. It was developed as final project for the Digital Games Discipline. It was inspired by my girlfriend's cat called Mia",
+    "description": "The first game developed by me. It was developed as final project for the Digital Games Discipline. It was inspired by my girlfriend's cat called Mia.",
     "url":"https://1baldasso.itch.io/mias-back-home",
     "Image":MiaImage
   },
@@ -18,7 +18,7 @@ export const projects = {
   },
   "game3":{
     "name":"Game Manager Studies",
-    "description":"A study over the Unity platform, some design patterns such as GameManagers and about Scriptable Objects applied to Cards using Legends of Runeterra\u00A9 assets as Examples",
+    "description":"A study over the Unity platform, some design patterns such as GameManagers and about Scriptable Objects applied to Cards using Legends of Runeterra\u00A9 assets as Examples.",
     "url":"https://1baldasso.itch.io/cardevent-studies",
     "Image":GameMaganagerImage,
   },
@@ -31,7 +31,7 @@ export const projects = {
   },
   "SBGamesProject":{
     "name":"Unnamed Project",
-    "description":"A Project I am working on looking forward to submit as part of the SBGames 2022 on Brazil. It is a prototype of Legends of Runeterra\u00A9 made for testing Custom Cards",
+    "description":"A Project I am working on looking forward to submit as part of the SBGames 2022 on Brazil. It is a prototype of Legends of Runeterra\u00A9 made for testing Custom Cards.",
     "url":"",
     "Image":QuestionMarkImage,
   }

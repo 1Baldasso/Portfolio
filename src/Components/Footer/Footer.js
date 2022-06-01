@@ -4,9 +4,14 @@ import './styles.css';
 export default function Footer(){
   return(
     <footer className='Footer'>
-      <h3>
-        Desenvolvido por Lucas Baldasso
-      </h3>
+      <div className='Development'>
+        <h3>
+          Desenvolvido por 
+        </h3>
+        <h2>
+          Lucas Baldasso
+        </h2>
+      </div>
       <ul>
         <li>Lucas Baldasso</li>
         <li>Software Engineering Student</li>

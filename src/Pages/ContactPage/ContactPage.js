@@ -7,6 +7,11 @@ export default function ContactPage()
   return(
     <>
       <Header/>
+      <main>
+        <h3>
+          CONTATO
+        </h3>
+      </main>
       <Footer/>
     </>
   );

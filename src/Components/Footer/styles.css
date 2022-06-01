@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+
 .Footer
 {
   display: flex;
@@ -5,5 +7,17 @@
   height: 200px;
   align-items: center;
   justify-content: space-evenly;
-  color: #f9e8d2; 
+  color: #f9e8d2;
+}
+
+.Development
+{
+  display: flex;
+  flex-direction: row;
+}
+
+.Development h2
+{
+  margin-left: 15px;
+  font-family: 'Cinzel Decorative', cursive;
 }
