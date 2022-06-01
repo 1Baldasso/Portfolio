@@ -14,10 +14,10 @@ export default class HomePage extends Component
     <>
       <Helmet title='Lucas Baldasso'/>
       <Header/>
-      <SocialMedia/>
       <main className='mainContent'>
         <ProjectList/>
       </main>
+      <SocialMedia/>
       <Footer/>
     </>
   );

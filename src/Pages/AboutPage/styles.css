@@ -1,0 +1,72 @@
+.mainContent
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: baseline;
+  padding:4%;
+}
+
+.profile
+{
+  width: 20%;
+  margin: 0 25px;
+  border: 0px solid #9b7e52;
+  border-radius: 15px;
+  border-left-width: 1px;
+  border-top-width: 1px;
+  padding: 10px;
+}
+
+.Tree
+{
+  width: 100%;
+  border-radius: 10px;
+}
+
+.photoDescription
+{
+  font-size: 10px;
+}
+
+.columnContent
+{
+  margin: 0 10%;
+  border: 0px solid #9b7e52;
+  border-radius: 15px;
+  border-left-width: 1px;
+  border-top-width: 1px;
+  padding: 1%;
+}
+
+.Title
+{
+  font-size: 30px;
+  text-align: center;
+}
+
+.subtitle
+{
+  font-size: 16px;
+  line-height: 90%;
+  margin: 0 0;
+}
+
+.profileText
+{
+  line-height: 150%;
+  font-size: 13px;
+  text-align: justify;
+}
+
+.item-subtitle
+{
+  margin: 10px 0 0 0;
+
+}
+
+.itens
+{
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 1em;
+}

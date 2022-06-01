@@ -8,12 +8,12 @@ export default function ContactPage()
   return(
     <>
       <Header/>
-      <SocialMedia/>
       <main>
         <h3>
           CONTATO
         </h3>
       </main>
+      <SocialMedia/>
       <Footer/>
     </>
   );
