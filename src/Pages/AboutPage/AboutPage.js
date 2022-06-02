@@ -55,6 +55,9 @@ export default function AboutPage()
                 C/C++/C#
               </p>
               <p className='itens'>
+                HTML/CSS
+              </p>
+              <p className='itens'>
                 Javascript/Typescript
               </p>
               <p className='itens'>
@@ -62,6 +65,9 @@ export default function AboutPage()
               </p>
               <p className='itens'>
                 Lua for Roblox
+              </p>
+              <p className='itens'>
+                Postgres SQL
               </p>
             </li>
             <li>

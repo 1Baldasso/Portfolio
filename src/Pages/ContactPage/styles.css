@@ -1,0 +1,44 @@
+.mainContent
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: baseline;
+  padding:4%;
+}
+
+.Item
+{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.EmailImage
+{
+  height: 20px;
+  margin: 0 15px;
+}
+
+.WhatsAppImage
+{
+  height: 30px;
+  margin: 0 15px;
+}
+
+.TwitterImage
+{
+  height: 30px;
+  margin: 0 15px;
+}
+
+.HomeImage
+{
+  height: 30px;
+  margin: 0 15px;
+}
+
+a,p:link a,p:hover a,p:visited a,p:active
+{
+  text-decoration: none;
+  color:inherit;
+}

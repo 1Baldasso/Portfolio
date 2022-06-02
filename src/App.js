@@ -1,4 +1,5 @@
 import React from 'react';
+import Helmet from 'react-helmet';
 import { Routes, Route } from 'react-router-dom';
 import HomePage from './Pages/HomePage/HomePage';
 import AboutPage from './Pages/AboutPage/AboutPage';
@@ -9,8 +10,13 @@ import './App.css';
 
 function App() { 
   return (
-    document.title="Lucas Baldasso",
     <div className="App">
+      <Helmet>
+                <meta charSet="utf-8" />
+                <title>Lucas Baldasso</title>
+                <link rel="canonical" href="https://1baldasso-portfolio.vercel.app/" />
+                <meta name="description" content="Here is my world, everything I have done on the programming world, feel free to explore!" />
+      </Helmet>
       <Routes>
         <Route exact path='/' element={<HomePage/>} />
         <Route path='/about' element={<AboutPage/>} />
