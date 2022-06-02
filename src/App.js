@@ -15,7 +15,6 @@ function App() {
                 <meta charSet="utf-8" />
                 <title>Lucas Baldasso</title>
                 <link rel="canonical" href="https://1baldasso-portfolio.vercel.app/" />
-                <meta name="description" content="Here is my world, everything I have done on the programming world, feel free to explore!" />
       </Helmet>
       <Routes>
         <Route exact path='/' element={<HomePage/>} />
