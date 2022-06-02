@@ -13,7 +13,7 @@ export default function ListItem(props)
           {props.description}
         </p>
       </div>
-      <div className='projectImage'>
+      <div className={props.order==="imageFirst"? 'ProjectImageIF' : 'ProjectImageTF'}>
         <a href={props.url} target='_blank' rel='noreferrer noopener'><img src={props.image} alt="" className='Image'/></a>
       </div>
       {props.video}
