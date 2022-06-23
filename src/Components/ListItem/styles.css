@@ -60,4 +60,5 @@
   width: 99%;
   margin-top: 25px;
   margin-bottom: 25px;
+  transition: all 250ms linear 0s;
 }
