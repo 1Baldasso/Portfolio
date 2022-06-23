@@ -45,6 +45,7 @@ nav a
   font-family: 'Cinzel Decorative', cursive;
   font-weight: 100;
   font-size: 4vmax;
+  text-shadow: 5px 5px 3px #2c2925a1;
 }
 
 nav li:hover
