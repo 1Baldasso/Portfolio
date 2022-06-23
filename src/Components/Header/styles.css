@@ -47,3 +47,7 @@ nav a
   font-size: 4vmax;
 }
 
+nav li:hover
+{
+  text-shadow: 5px 5px 3px #2c2925a1;
+}
