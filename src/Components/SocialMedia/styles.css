@@ -13,3 +13,11 @@
   height: 50px;
   margin: 0px 10px;
 }
+
+.Icon:hover
+{
+  padding: 5px;
+  padding-top: 0px;
+  border-bottom: 2px solid #9b7e52a1;
+  border-radius: 10px;
+}

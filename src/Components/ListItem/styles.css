@@ -32,6 +32,11 @@
   flex-direction: column;
   margin:15px;
 }
+
+.projectDescription h2
+{
+  text-shadow: 2px 2px 3px #1f1e1ea1;
+}
 .projectDescription p
 {
   font-family: 'Tiro Kannada', serif;
@@ -46,13 +51,13 @@
   width: 100%;
   height: auto;
   border-radius: 25px;
-  box-shadow: 5px 5px 10px #c8974ec1;
+  box-shadow: 2px 2px 10px #9b7e52a1;
 }
 
 .projectBlockIF:hover, .projectBlockTF:hover
 {
   box-shadow: 1px 1px 25px #9b7e52a1;
-  width: 98%;
-  margin-top: 45px;
-  margin-bottom: 45px;
+  width: 99%;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }

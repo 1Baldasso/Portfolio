@@ -51,4 +51,5 @@ nav a
 nav li:hover
 {
   text-shadow: 5px 5px 3px #2c2925a1;
+  font-size: calc(2vmax + 5px);
 }
