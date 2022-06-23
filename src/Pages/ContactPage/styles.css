@@ -46,5 +46,6 @@ a,p:link a,p:hover a,p:visited a,p:active
   padding-top: 0px;
   border-bottom: 2px solid #9b7e52a1;
   border-radius: 10px;
-  transition: all 250ms linear 0s;
+  transition: all 100ms linear 80ms;
+  transition: border-bottom 100ms linear 80ms;
 }

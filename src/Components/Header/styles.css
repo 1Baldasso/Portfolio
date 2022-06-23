@@ -52,5 +52,6 @@ nav li:hover
 {
   text-shadow: 5px 5px 3px #2c2925a1;
   font-size: calc(2vmax + 5px);
-  transition: all 80ms linear 0s;
+  transition: all 80ms ease 80ms;
+  transition: font-size 80ms ease 80ms;
 }
