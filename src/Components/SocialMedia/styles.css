@@ -21,4 +21,5 @@
   border-bottom: 2px solid #9b7e52a1;
   border-radius: 10px;
   transition: all 100ms ease 80ms;
+  transition: border-bottom 100ms ease 80ms;
 }
