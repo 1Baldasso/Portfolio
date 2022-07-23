@@ -15,15 +15,15 @@
 .Profile-Pic {
   height: 25vh;
   width: auto;
-  margin-left: 30px;
-  border-radius: 15px;
+  margin-left: 3rem;
+  border-radius: 1.5rem;
   box-shadow: 10px 10px 10px #000000;
 }
 
 nav ul
 {
   padding: 0px;
-  margin: 0 20px;
+  margin: 0 2rem;
 }
 nav li
 {
@@ -41,9 +41,9 @@ nav a
 
 .Name
 {
-  margin-right: 30px;
+  margin-right: 3rem;
   font-family: 'Cinzel Decorative', cursive;
-  font-weight: 100;
+  font-weight: 10rem;
   font-size: 4vmax;
   text-shadow: 5px 5px 3px #2c2925a1;
 }
