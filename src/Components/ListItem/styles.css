@@ -3,7 +3,7 @@
 .projectBlockTF
 {
   display: flex;
-  align-items: initial;
+  align-items: center;
   justify-content: space-between;
   border: 2px solid #9b7e52;
   border-top-width: 0px;
@@ -15,7 +15,7 @@
 .projectBlockIF
 {
   display: flex;
-  align-items:initial;
+  align-items:center;
   flex-direction: row-reverse;
   justify-content: space-between;
   border: 2px solid #9b7e52;
@@ -35,12 +35,13 @@
 
 .projectDescription h2
 {
+  font-size: 2.4rem;
   text-shadow: 2px 2px 3px #1f1e1ea1;
 }
 .projectDescription p
 {
   font-family: 'Tiro Kannada', serif;
-  font-size: 20px;
+  font-size: 1.6rem;
   text-align: justify;
   line-height: 150%;
 }

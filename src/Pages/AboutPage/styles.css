@@ -14,7 +14,7 @@
   border-radius: 15px;
   border-left-width: 1px;
   border-top-width: 1px;
-  padding: 10px;
+  padding: 20px;
 }
 
 .Tree
@@ -25,7 +25,7 @@
 
 .photoDescription
 {
-  font-size: 10px;
+  font-size: 1rem;
 }
 
 .columnContent
@@ -40,14 +40,14 @@
 
 .Title
 {
-  font-size: 30px;
+  font-size: 3rem;
   text-align: center;
   text-shadow: 2px 2px 3px #1f1e1ea1;
 }
 
 .subtitle
 {
-  font-size: 16px;
+  font-size: 1.6rem;
   line-height: 90%;
   margin: 0 0;
 }
@@ -55,7 +55,7 @@
 .profileText
 {
   line-height: 150%;
-  font-size: 13px;
+  font-size: 1.3rem;
   text-align: justify;
 }
 

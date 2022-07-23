@@ -2,6 +2,7 @@ import MiaImage from '../../Assets/Images/miasbackhome.png';
 import RunnerImage from '../../Assets/Images/Runner25D.jpg';
 import GameMaganagerImage from '../../Assets/Images/GameManager.png';
 import QuestionMarkImage from '../../Assets/Images/QuestionMark.png';
+import DotNetApp from '../../Assets/Images/dotNETApp.png';
 
 export const projects = {
   "game1": {
@@ -34,5 +35,11 @@ export const projects = {
     "description":"A Project I am working on looking forward to submit as part of the SBGames 2022 on Brazil. It is a prototype of Legends of Runeterra\u00A9 made for testing Custom Cards.",
     "url":"",
     "Image":QuestionMarkImage,
+  },
+  "dotNetProject":{
+    "name":"Arrangement Flower Tracker",
+    "description":"A project developed using .NET Windows Forms to keep track of the flowers used in each arrangement, help understand its costs and automatically generate a flower order.",
+    "url":"https://github.com/1Baldasso/Luflores_Orcamento-Flores",
+    "Image":DotNetApp,
   }
 }

@@ -1,0 +1,113 @@
+[33mcommit 4980dc871d108a797dc35f0922834b61d7a4fbe3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Lucas Baldasso <engs-lucasbaldasso@camporeal.edu.br>
+Date:   Fri Jun 24 21:53:26 2022 -0300
+
+    removing some annoying effects
+
+[33mcommit 7915563adec580041e1a0d4bbf88b57288f21e0a[m
+Author: Lucas Baldasso <engs-lucasbaldasso@camporeal.edu.br>
+Date:   Thu Jun 23 01:20:09 2022 -0300
+
+    Atualizações de transição
+
+[33mcommit 7ea2267d4030775e632cf6c43f71d27462e48010[m
+Author: Lucas Baldasso <engs-lucasbaldasso@camporeal.edu.br>
+Date:   Thu Jun 23 01:07:24 2022 -0300
+
+    Atualizações visuais
+
+[33mcommit 3c5bdf0fd02a307dd220d5385b1d2edc6db2cb42[m
+Author: Lucas Baldasso <engs-lucasbaldasso@camporeal.edu.br>
+Date:   Thu Jun 23 00:38:19 2022 -0300
+
+    Atualizações visuais
+
+[33mcommit e7cf9f0b8683b21dd2295e1f5f390df2fa4700f5[m
+Author: Lucas Baldasso <engs-lucasbaldasso@camporeal.edu.br>
+Date:   Thu Jun 23 00:23:52 2022 -0300
+
+    Atualizações visuais
+
+[33mcommit f98e4d37d88e300ffe4fb49efb88478ce90ba2ee[m
+Author: Lucas Baldasso <engs-lucasbaldasso@camporeal.edu.br>
+Date:   Wed Jun 22 23:30:24 2022 -0300
+
+    Adicionando text shadow
+
+[33mcommit 9c2f87961608a8f21365187476afa810079eb951[m
+Author: Lucas Baldasso <engs-lucasbaldasso@camporeal.edu.br>
+Date:   Wed Jun 22 23:21:35 2022 -0300
+
+    Adicionando text shadow
+
+[33mcommit 738875454a25b497ca979f52dd4af6337b8b339c[m
+Author: Lucas Baldasso <engs-lucasbaldasso@camporeal.edu.br>
+Date:   Wed Jun 22 22:16:21 2022 -0300
+
+    Adicionando hover
+
+[33mcommit a16f0c0e6ed00b98d8af42ece18218a873d0a6db[m
+Author: LUCAS <engs-lucasbaldaso@camporeal.edu.br>
+Date:   Thu Jun 2 13:27:44 2022 -0300
+
+    width rodape
+
+[33mcommit 6f1396c1a31594f948e4db2ad59c7d87001cb7c4[m
+Author: LUCAS <engs-lucasbaldaso@camporeal.edu.br>
+Date:   Thu Jun 2 10:40:41 2022 -0300
+
+    adicionando sombras
+
+[33mcommit 59ef3d39a4fdf9b9cd6f3f6fbc6e2b3a05b662ce[m
+Author: LUCAS <engs-lucasbaldaso@camporeal.edu.br>
+Date:   Thu Jun 2 10:27:27 2022 -0300
+
+    adicionando nome e descrição ao link
+
+[33mcommit 33b68cf9a755830d3efd3baf78241682b34e4264[m
+Author: LUCAS <engs-lucasbaldaso@camporeal.edu.br>
+Date:   Thu Jun 2 10:00:51 2022 -0300
+
+    atualizando icone e nome do site
+
+[33mcommit bab6fe08b0274b8f702a5059bc1567dd8977b319[m
+Author: LUCAS <engs-lucasbaldaso@camporeal.edu.br>
+Date:   Thu Jun 2 09:57:29 2022 -0300
+
+    Finalizando portfolio
+
+[33mcommit 379d87015d6c63d4f95f51eb77ff8785d5723f69[m
+Author: LUCAS <engs-lucasbaldaso@camporeal.edu.br>
+Date:   Wed Jun 1 18:21:36 2022 -0300
+
+    adicionando about
+
+[33mcommit 27152dcb5d3af4b1312cdadadcbd0987024bcda5[m
+Author: LUCAS <engs-lucasbaldaso@camporeal.edu.br>
+Date:   Wed Jun 1 16:46:15 2022 -0300
+
+    Adicionando redes sociais
+
+[33mcommit 2c89b80d8719ca260f7f0fd09d535ecebfbe5dd3[m
+Author: LUCAS <engs-lucasbaldaso@camporeal.edu.br>
+Date:   Wed Jun 1 14:40:17 2022 -0300
+
+    updating home visual
+
+[33mcommit 6878fd8d3aa6d69511ece6fd1c26305ae86f974e[m
+Author: LUCAS <engs-lucasbaldaso@camporeal.edu.br>
+Date:   Wed Jun 1 13:29:32 2022 -0300
+
+    Adding Navigation
+
+[33mcommit b11d7340e036506b7044b1e2b1f7b38a755aff5c[m
+Author: LUCAS <engs-lucasbaldaso@camporeal.edu.br>
+Date:   Wed Jun 1 12:40:10 2022 -0300
+
+    deploy homepage
+
+[33mcommit 2d4c068a6afb3eb8daeca133ffa66bf0bdf01dfa[m
+Author: LUCAS <engs-lucasbaldaso@camporeal.edu.br>
+Date:   Wed May 18 23:34:57 2022 -0300
+
+    Initialize project using Create React App
