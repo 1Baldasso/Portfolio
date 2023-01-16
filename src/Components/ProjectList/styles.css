@@ -1,0 +1,14 @@
+.title
+{
+  font-size: 3rem;
+  border-bottom: 1.3px solid #9b7e52;
+  border-radius: 25px;
+  width: 30%;
+  text-shadow: 5px 5px 3px #1f1e1ea1;
+}
+.workList
+{
+  margin-top: 0px;
+  margin: 10px 25px;
+  list-style: none;
+}

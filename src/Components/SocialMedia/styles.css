@@ -1,0 +1,24 @@
+.Social
+{
+  background-color: #2c2925;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  justify-content:center;
+}
+.Icon
+{
+  padding: 5px;
+  padding-top: 0px;
+  width: auto;
+  height: 50px;
+  margin: 0px 10px;
+}
+
+.Icon:hover
+{
+  border-bottom: 2px solid #9b7e52a1;
+  border-radius: 10px;
+  transition: border-bottom 100ms ease 80ms;
+}

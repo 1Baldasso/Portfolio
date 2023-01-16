@@ -1,0 +1,51 @@
+.mainContent
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: baseline;
+  padding:4%;
+}
+.mainContent h2
+{
+  text-shadow: 5px 5px 3px #1f1e1ea1;
+}
+
+.Item
+{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.Item p
+{
+  text-shadow: 5px 5px 3px #1f1e1ea1;
+}
+
+.EmailImage
+{
+  height: 20px;
+  margin: 0 15px;
+}
+
+.TwitterImage, .WhatsAppImage, .HomeImage
+{
+  height: 30px;
+  margin: 0 15px;
+}
+
+a,p:link a,p:hover a,p:visited a,p:active
+{
+  text-decoration: none;
+  color:inherit;
+}
+
+.Item:hover
+{
+  padding: 5px;
+  padding-top: 0px;
+  border-bottom: 2px solid #9b7e52a1;
+  border-radius: 10px;
+  transition: all 100ms linear 80ms;
+  transition: border-bottom 100ms linear 80ms;
+}

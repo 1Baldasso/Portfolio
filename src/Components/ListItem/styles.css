@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Kannada&display=swap');
+
+.projectBlockTF
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 2px solid #9b7e52;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-radius: 25px;
+  padding: 2.5vmax;
+  margin: 1.5vmax 0;
+}
+.projectBlockIF
+{
+  display: flex;
+  align-items:center;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  border: 2px solid #9b7e52;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-radius: 25px;
+  padding: 2.5rem;
+  margin: 1.5rem 0;
+}
+
+.projectDescription
+{
+  display: flex;
+  flex-direction: column;
+  margin:1.5rem;
+}
+
+.projectDescription h2
+{
+  font-size: 2.4rem;
+  text-shadow: 2px 2px 3px #1f1e1ea1;
+}
+.projectDescription p
+{
+  font-family: 'Tiro Kannada', serif;
+  font-size: 1.6rem;
+  text-align: justify;
+  line-height: 150%;
+}
+
+
+.Image
+{
+  width: 100%;
+  height: auto;
+  border-radius: 2.5rem;
+  box-shadow: 2px 2px 10px #9b7e52a1;
+}
+
+.projectBlockIF:hover, .projectBlockTF:hover
+{
+  transition: all 250ms ease 100ms;
+  transition: width 250ms ease 100ms;
+  box-shadow: 1px 1px 25px #9b7e52a1;
+}

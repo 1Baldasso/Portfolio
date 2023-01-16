@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+
+.App-header {
+  background-image: linear-gradient(#9b7e52,#2c2925);
+  min-height: 20%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: calc(10px + 2vmin);
+  color: #f9e8d2;
+}
+
+.Profile-Pic {
+  height: 25vh;
+  width: auto;
+  margin-left: 3rem;
+  border-radius: 1.5rem;
+  box-shadow: 10px 10px 10px #000000;
+}
+
+nav ul
+{
+  padding: 0px;
+  margin: 0 2rem;
+}
+nav li
+{
+  display: inline;
+  margin: 0 15px;
+  font-size: 2vmax;
+  font-family: 'Cinzel', serif;
+}
+nav a
+{
+  color: #f9e8d2;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.Name
+{
+  margin-right: 3rem;
+  font-family: 'Cinzel Decorative', cursive;
+  font-weight: 10rem;
+  font-size: 4vmax;
+  text-shadow: 5px 5px 3px #2c2925a1;
+}
+
+nav li:hover
+{
+  text-shadow: 5px 5px 3px #2c2925a1;
+  font-size: calc(2vmax + 5px);
+  transition: all 80ms ease 80ms;
+  transition: font-size 80ms ease 80ms;
+}

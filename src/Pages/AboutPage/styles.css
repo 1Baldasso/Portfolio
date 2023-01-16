@@ -1,0 +1,73 @@
+.mainContent
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: baseline;
+  padding:4%;
+}
+
+.profile
+{
+  width: 20%;
+  margin: 0 25px;
+  border: 0px solid #9b7e52;
+  border-radius: 15px;
+  border-left-width: 1px;
+  border-top-width: 1px;
+  padding: 20px;
+}
+
+.Tree
+{
+  width: 100%;
+  border-radius: 10px;
+}
+
+.photoDescription
+{
+  font-size: 1rem;
+}
+
+.columnContent
+{
+  margin: 0 10%;
+  border: 0px solid #9b7e52;
+  border-radius: 15px;
+  border-left-width: 1px;
+  border-top-width: 1px;
+  padding: 1%;
+}
+
+.Title
+{
+  font-size: 3rem;
+  text-align: center;
+  text-shadow: 2px 2px 3px #1f1e1ea1;
+}
+
+.subtitle
+{
+  font-size: 1.6rem;
+  line-height: 90%;
+  margin: 0 0;
+}
+
+.profileText
+{
+  line-height: 150%;
+  font-size: 1.3rem;
+  text-align: justify;
+}
+
+.item-subtitle
+{
+  margin: 10px 0 0 0;
+
+}
+
+.itens
+{
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 1em;
+}

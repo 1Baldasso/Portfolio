@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+
+.Footer
+{
+  display: flex;
+  background-image: linear-gradient(#2c2925,#9b7e52);
+  height: 200px;
+  width: 100%;
+  align-items: center;
+  justify-content: space-evenly;
+  color: #f9e8d2;
+}
+
+.Development
+{
+  display: flex;
+  flex-direction: row;
+}
+
+.Development h2
+{
+  margin-left: 15px;
+  font-family: 'Cinzel Decorative', cursive;
+}
